@@ -36,7 +36,7 @@ networkx==3.5
 numpy==1.26.4
 pandas==2.3.3
 pillow==11.3.0
-plotly==6.3.1
+plotly
 protobuf==6.33.0
 pyarrow==22.0.0
 pycountry==24.6.1
